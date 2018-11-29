@@ -1,0 +1,8 @@
+*
+!adlists.list
+#auditlog.list
+!black.list
+!blacklist.txt
+!whitelist.txt
+!.gitignore
+!README.md

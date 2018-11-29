@@ -115,3 +115,11 @@ https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/
 https://www.squidblacklist.org/downloads/dg-ads.acl
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
 https://ransomwaretracker.abuse.ch/downloads/TL_C2_DOMBL.txt
+https://www.dshield.org/feeds/suspiciousdomains_Medium.txt
+https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
+https://someonewhocares.org/hosts/zero/hosts
+https://v.firebog.net/hosts/Kowabit.txt
+https://adblock.mahakala.is
+https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
