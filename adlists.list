@@ -37,7 +37,7 @@ https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
 https://easylist-downloads.adblockplus.org/malwaredomains_full.txt
 https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt
-https://easylist-downloads.adblockplus.org/fanboy-social.txt
+#https://easylist-downloads.adblockplus.org/fanboy-social.txt
 https://easylist-downloads.adblockplus.org/easyprivacy.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
 https://www.i-dont-care-about-cookies.eu/abp/
@@ -50,3 +50,8 @@ https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt
 https://adblock.dk/block.csv
 http://pgl.yoyo.org/adservers/serverlist.php
 https://raw.githubusercontent.com/szpeter80/hufilter/master/hufilter.txt
+https://fanboy.co.nz/r/fanboy-ultimate.txt
+https://fanboy.co.nz/fanboy-antifonts.txt
+#https://fanboy.co.nz/fanboy-antifacebook.txt
+https://fanboy.co.nz/enhancedstats.txt
+https://secure.fanboy.co.nz/malwaredomains_full.txt
