@@ -45,3 +45,4 @@ s.shopify.com
 keystone.mwbsys.com
 dl.dropbox.com
 api.ipify.org
+s3.eu-central-1.amazonaws.com
