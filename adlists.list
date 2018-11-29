@@ -1,6 +1,6 @@
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-https://mirror1.malwaredomains.com/files/justdomains
-http://sysctl.org/cameleon/hosts
+#https://mirror1.malwaredomains.com/files/justdomains
+#http://sysctl.org/cameleon/hosts
 https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
@@ -12,7 +12,7 @@ http://hosts-file.net/.%5Cad_servers.txt
 http://adaway.org/hosts.txt
 http://someonewhocares.org/hosts/hosts
 http://winhelp2002.mvps.org/hosts.txt
-http://adblock.gjtech.net/?format=unix-hosts
+#http://adblock.gjtech.net/?format=unix-hosts
 https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
 http://mirror1.malwaredomains.com/files/justdomains
 http://www.malwaredomainlist.com/hostslist/hosts.txt
@@ -42,11 +42,11 @@ http://v.firebog.net/hosts/HPHosts-emd.txt
 http://v.firebog.net/hosts/HPHosts-exp.txt
 http://v.firebog.net/hosts/HPHosts-psh.txt
 http://www.joewein.net/dl/bl/dom-bl.txt
-http://www.networksec.org/grabbho/block.txt
+#http://www.networksec.org/grabbho/block.txt
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 https://gist.githubusercontent.com/anudeepND/adac7982307fec6ee23605e281a57f1a/raw/5b8582b906a9497624c3f3187a49ebc23a9cf2fb/Test.txt
-https://github.com/StevenBlack/hosts/blob/master/extensions/fakenews/hosts
-https://github.com/StevenBlack/hosts/blob/master/extensions/gambling/hosts
+#https://github.com/StevenBlack/hosts/blob/master/extensions/fakenews/hosts
+#https://github.com/StevenBlack/hosts/blob/master/extensions/gambling/hosts
 https://hostsfile.mine.nu/hosts0.txt
 https://hosts-file.net/emd.txt
 https://hosts-file.net/exp.txt
@@ -126,3 +126,5 @@ https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://www.squidblacklist.org/downloads/dg-malicious.acl
 https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/gambling/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
