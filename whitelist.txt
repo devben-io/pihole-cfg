@@ -49,3 +49,4 @@ s3.eu-central-1.amazonaws.com
 finanzen.net
 star-mini.c10r.facebook.com
 spiegel.de
+mandrillapp.com
