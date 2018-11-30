@@ -50,3 +50,4 @@ finanzen.net
 star-mini.c10r.facebook.com
 spiegel.de
 mandrillapp.com
+youtu.be
