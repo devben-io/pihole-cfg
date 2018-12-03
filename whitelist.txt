@@ -51,3 +51,11 @@ star-mini.c10r.facebook.com
 spiegel.de
 mandrillapp.com
 youtu.be
+events.gfe.nvidia.com
+gfe.geforce.com
+gfe.nvidia.com
+gfsql.geforce.com
+gfswl.geforce.com
+telemetry.gfe.nvidia.com
+telemetry.nvidia.com
+a.nvidia.com
