@@ -59,3 +59,5 @@ gfswl.geforce.com
 telemetry.gfe.nvidia.com
 telemetry.nvidia.com
 a.nvidia.com
+facebook.com
+www.crunchbase.com
