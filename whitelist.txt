@@ -61,3 +61,4 @@ telemetry.nvidia.com
 a.nvidia.com
 facebook.com
 www.crunchbase.com
+version.hybrid.api.here.com
