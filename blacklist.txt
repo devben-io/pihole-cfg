@@ -30,3 +30,4 @@ s1b.time.edu.cn
 2.asia.pool.ntp.org
 ru.pool.ntp.org
 s1a.time.edu.cn
+graph.facebook.com
