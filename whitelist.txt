@@ -62,3 +62,4 @@ a.nvidia.com
 facebook.com
 www.crunchbase.com
 version.hybrid.api.here.com
+ttrss.dtpnk.tech
