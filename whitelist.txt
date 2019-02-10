@@ -64,3 +64,4 @@ version.hybrid.api.here.com
 ttrss.dtpnk.tech
 buffer-media-uploads.s3.amazonaws.com
 distrowatch.com
+sentry.io
